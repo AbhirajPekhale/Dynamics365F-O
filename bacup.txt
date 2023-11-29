@@ -1,19 +1,11 @@
 git backup
-
-1. open git bash
-
-2. cd downloads
-
-3.  git clone https://github.com/AbhirajPekhale/Dynamics365F-O.git 
-
-4.  cd repo name     (press tab key)
-
-5. git config --global user.email "abhipekhale98@gmail.com" 
+open git bash
+cd downloads
+git clone https://github.com/AbhirajPekhale/Dynamics365F-O.git 
+cd repo name     (press tab key)
+git config --global user.email "abhipekhale98@gmail.com" 
 ________________________________________________________________
-6. git add       (press tab key).
-
-7. git commit -m "message"
-
-7.git status
-
-8.git push
+git add       (press tab key).
+git commit -m "message"
+git status
+git push
